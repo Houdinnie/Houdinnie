@@ -22,6 +22,11 @@ I'm **Ryan Panashe Murangariri**, a Computer Science student at Nanchang Hangkon
 - **Email:** [rmurangariri@yahoo.com](mailto:rmurangariri@yahoo.com)
 - **LinkedIn:** [Ryan Panashe Murangariri](https://www.linkedin.com/in/ryan-panashe-murangariri-b9b1b73ba)
 
+## 🚧 Currently Building
+
+- **Next-Gen AI Trading Bot** — Integrating advanced reinforcement learning models for adaptive market strategies
+- **Decentralized Finance (DeFi) Analytics Platform** — Developing tools for real-time analysis of on-chain data and smart contract interactions
+
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Houdinnie&layout=compact&theme=dark&hide_border=false)
