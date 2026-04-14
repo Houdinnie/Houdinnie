@@ -45,7 +45,7 @@ AI-driven market analysis engine with structured trade outputs and decision logi
 
 **Architecture:** Data → AI Model → Signal Engine → Output Layer
 
-[View Project](https://houdinnie.github.io/portfolio/) · [GitHub](https://github.com/Houdinnie)
+[View Project](https://github.com/Houdinnie/Trinity-Ai) · [Portfolio](https://houdinnie.github.io/portfolio/)
 
 ## 📊 GitHub Stats
 
