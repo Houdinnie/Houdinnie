@@ -30,6 +30,7 @@ I'm **Ryan Panashe Murangariri** — a Computer Science student at Nanchang Hang
 
 - **Email:** [rmurangariri@yahoo.com](mailto:rmurangariri@yahoo.com)
 - **LinkedIn:** [Ryan Panashe Murangariri](https://www.linkedin.com/in/ryan-panashe-murangariri-b9b1b73ba)
+- **Portfolio:** [houdinnie.github.io/portfolio](https://houdinnie.github.io/portfolio/)
 
 ## 🚧 Currently Building
 
