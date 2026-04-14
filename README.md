@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-I'm **Ryan Panashe Murangariri**, a Computer Science student at Nanchang Hangkong University with a passion for building software, web applications, and exploring AI.
+I'm **Ryan Panashe Murangariri** — a Computer Science student at Nanchang Hangkong University passionate about building sophisticated AI-powered trading systems equipped with real-time decision engines, structured outputs, and highly scalable backend infrastructure.
 
 ## 🔧 Tech Stack
 
