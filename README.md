@@ -34,7 +34,18 @@ I'm **Ryan Panashe Murangariri** — a Computer Science student at Nanchang Hang
 
 ## 🚧 Featured Projects
 
-- **Trinity AI Trading Intelligence System** — A comprehensive AI-powered trading platform that integrates advanced reinforcement learning models for adaptive market strategies. The system is designed to analyze real-time market data, execute trades with minimal latency, and provide users with a structured, easy-to-understand output. The backend is built using FastAPI and PostgreSQL, while the frontend is a React application. The system is containerized using Docker for easy deployment and scalability.
+### Trinity AI – Trading Intelligence System
+
+AI-driven market analysis engine with structured trade outputs and decision logic.
+
+- Multi-timeframe market analysis
+- Generates Entry, TP1–TP3, SL
+- Confidence scoring + reasoning trace
+- Simulated trade history tracking
+
+**Architecture:** Data → AI Model → Signal Engine → Output Layer
+
+[View Project](https://houdinnie.github.io/portfolio/) · [GitHub](https://github.com/Houdinnie)
 
 ## 📊 GitHub Stats
 
