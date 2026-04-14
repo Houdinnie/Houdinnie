@@ -32,10 +32,9 @@ I'm **Ryan Panashe Murangariri** — a Computer Science student at Nanchang Hang
 - **LinkedIn:** [Ryan Panashe Murangariri](https://www.linkedin.com/in/ryan-panashe-murangariri-b9b1b73ba)
 - **Portfolio:** [houdinnie.github.io/portfolio](https://houdinnie.github.io/portfolio/)
 
-## 🚧 Currently Building
+## 🚧 Featured Projects
 
-- **Next-Gen AI Trading Bot** — Integrating advanced reinforcement learning models for adaptive market strategies
-- **Decentralized Finance (DeFi) Analytics Platform** — Developing tools for real-time analysis of on-chain data and smart contract interactions
+- **Trinity AI Trading Intelligence System** — A comprehensive AI-powered trading platform that integrates advanced reinforcement learning models for adaptive market strategies. The system is designed to analyze real-time market data, execute trades with minimal latency, and provide users with a structured, easy-to-understand output. The backend is built using FastAPI and PostgreSQL, while the frontend is a React application. The system is containerized using Docker for easy deployment and scalability.
 
 ## 📊 GitHub Stats
 
