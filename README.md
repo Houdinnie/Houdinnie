@@ -57,7 +57,7 @@ I am a **Software Engineer** and **Entrepreneur** dedicated to bridging the gap 
 ---
 
 ### 📈 Startup Journey & Milestones
-- 🎓 **CS Student @ NCHXU**: Mastering the technical foundations of scalable systems.
+- 🎓 **CS Student @ NCHU**: Mastering the technical foundations of scalable systems.
 - 🏢 **Founder @ RPM Production**: Exploring the intersection of media, tech, and automation.
 - 🚀 **Future Founder**: Currently architecting an AI-first startup to revolutionize business operations.
 
