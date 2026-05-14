@@ -48,10 +48,6 @@ An autonomous AI agent for trading, built with multi-agent orchestration, sandbo
 Comprehensive AI agent platform with skills, workflows, and dashboard — the parent repo powering autonomous operations.
 > *TypeScript · Node.js · Skills Framework · Dashboard*
 
-#### 📊 **[GenX](https://github.com/Houdinnie/GenX)** — Automated Trading Dashboard for Deriv
-Advanced trading dashboard for Deriv with APA analysis, real-time market data, and intelligent trade execution.
-> *Python · Real-time Data · Trading API · Technical Analysis*
-
 #### 💻 **[SwarmSea](https://github.com/Houdinnie/SwarmSea)** — OS AI Assistant
 Your OS AI — an intelligent desktop assistant integrated into the operating system layer.
 > *AI · OS Integration · Desktop Assistant*
@@ -63,14 +59,6 @@ Consolidated AI tools platform featuring brain, channels, notes, tasks, and sand
 #### 🔄 **[nomad-flow](https://github.com/Houdinnie/nomad-flow)** — Workflow Automation Platform
 Automate and orchestrate workflows across multiple services and AI agents.
 > *Automation · Workflow Engine · Multi-service Integration*
-
-#### 💡 **[VentureMind](https://github.com/Houdinnie/venturemind)** — AI Business Strategy Advisor
-AI-powered business planning and strategy formulation tool for founders and entrepreneurs.
-> *AI · Business Planning · Strategy · LLM*
-
-#### 🌊 **[VentureMind-Global-Founder](https://github.com/Houdinnie/VentureMind-Global-Founder)** — Global Founder Platform
-Resources and tools for entrepreneurs and solo founders building globally.
-> *Entrepreneurship · Global Business · Founder Tools*
 
 ---
 
