@@ -40,10 +40,6 @@ I am a **Software Engineer** and **Entrepreneur** dedicated to bridging the gap 
 
 ### 🏗️ Featured Ventures & Projects
 
-#### 🤖 **[Trinity AI](https://github.com/Houdinnie/Trinity-Ai)** — AI-Powered Forex Trading Decision Support
-Real-time forex trading scanner with broker integration, TradingView webhook signals, and AI-driven signal analysis.
-> *Python · FastAPI · React · TradingView Webhooks · Broker APIs*
-
 #### 🚀 **[Devora](https://github.com/Houdinnie/Devora)** — Autonomous AI Trading Agent
 An autonomous AI agent for trading, built with multi-agent orchestration, sandbox execution, and real broker connectivity.
 > *TypeScript · Docker · LLM Config · Agent Framework*
@@ -56,10 +52,6 @@ Comprehensive AI agent platform with skills, workflows, and dashboard — the pa
 Advanced trading dashboard for Deriv with APA analysis, real-time market data, and intelligent trade execution.
 > *Python · Real-time Data · Trading API · Technical Analysis*
 
-#### 📈 **[fx-terminal](https://github.com/Houdinnie/fx-terminal)** — AI Forex Chart Analyser
-AI-powered forex chart analyser grounded in price-action playbooks — analyses charts and suggests setups.
-> *Python · AI · Chart Analysis · Price Action*
-
 #### 💻 **[SwarmSea](https://github.com/Houdinnie/SwarmSea)** — OS AI Assistant
 Your OS AI — an intelligent desktop assistant integrated into the operating system layer.
 > *AI · OS Integration · Desktop Assistant*
@@ -68,29 +60,13 @@ Your OS AI — an intelligent desktop assistant integrated into the operating sy
 Consolidated AI tools platform featuring brain, channels, notes, tasks, and sandbox execution in one unified interface.
 > *React · TypeScript · AI Integration · Tool Router*
 
-#### 📉 **[Kronos](https://github.com/Houdinnie/Kronos)** — Quantitative Trading System
-A systematic, data-driven approach to market analysis and trade execution.
-> *Python · Quantitative Analysis · Trading Algorithms*
-
 #### 🔄 **[nomad-flow](https://github.com/Houdinnie/nomad-flow)** — Workflow Automation Platform
 Automate and orchestrate workflows across multiple services and AI agents.
 > *Automation · Workflow Engine · Multi-service Integration*
 
-#### ⏰ **[timesfm](https://github.com/Houdinnie/timesfm)** — Time Series Forecasting Model
-Google's Time Series Forecasting Machine adapted for financial prediction tasks.
-> *Python · PyTorch · Time Series · Forecasting*
-
 #### 💡 **[VentureMind](https://github.com/Houdinnie/venturemind)** — AI Business Strategy Advisor
 AI-powered business planning and strategy formulation tool for founders and entrepreneurs.
 > *AI · Business Planning · Strategy · LLM*
-
-#### 🔬 **[Arc Agent](https://github.com/Houdinnie/arc-agent)** — Autonomous Agent Framework
-Autonomous agent framework for complex task automation — exploring the boundaries of agentic AI.
-> *Agentic AI · Task Automation · Framework*
-
-#### 🏭 **[Trinity-AI Graduation Project](https://github.com/Houdinnie/Trinity-Ai)** — Intelligent Edge-Fintech Dashboard
-A synthesis of FinTech and Embedded Systems featuring Kafka real-time market data, PyTorch LSTM predictions, and ESP32 physical ticker.
-> *Python · Kafka · PyTorch · ESP32 · Modbus TCP · PLC/SCADA*
 
 #### 🌊 **[VentureMind-Global-Founder](https://github.com/Houdinnie/VentureMind-Global-Founder)** — Global Founder Platform
 Resources and tools for entrepreneurs and solo founders building globally.
